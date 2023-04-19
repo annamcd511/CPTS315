@@ -44,15 +44,19 @@ To ensure that I have accurate and valid results, a subset of the data was withh
 4.	Results
 
 ![image](https://user-images.githubusercontent.com/67665228/233068559-73b3e086-26b1-4784-bfdd-f65dc76012db.png) 
+
 Figure 1. Multidimensional scaling plot of the top 10,000 common genes for the entire dataset.  The two categories we can see are the positive (black) and negative (red) samples.  There appears to be no clustering among the samples.
  
  ![image](https://user-images.githubusercontent.com/67665228/233068611-36375d46-4022-46bc-ac75-50120f43dbbe.png)
+
 Figure 2. Level of Gene Expression in the XAF1 gene between individuals that test positive and negative for Covid-19.  The DE gene is upregulated in the comparison between positive and negative individuals.  This gene encodes a protein which binds to and counteracts the inhibitory effect of a member of the IAP (inhibitor of apoptosis) protein family.
 
 Table 1. Table of the top differentially expressed genes that were upregulated and downregulated in the comparison between Covid positive and negative individuals.  These are the genes that were used as features in the classifier.
+
 <img width="130" alt="image" src="https://user-images.githubusercontent.com/67665228/233068737-4b74e15c-2429-4d4f-a40c-126363f9056f.png">
 
  ![image](https://user-images.githubusercontent.com/67665228/233068816-5631dd5b-5b69-4bbd-bdd0-e07ec5e6426f.png)
+
 Figure 3. Training accuracies after each iteration for the learning rates n = 0.1, 1, and 10.  Both n = 0.1 and n = 1 had the same training accuracy after each iteration.  With the increase in learning rate, the training accuracy decreased 46% by the 20th iteration.  The testing accuracies after using these learning rates for 20 iterations were 87%, 87%, and 27% respectively.
 
 
