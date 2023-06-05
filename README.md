@@ -1,4 +1,4 @@
-# CPTS315
+# Quantifying the Effects of Covid-19 on Gene Expression
 
 ## The Question
 The first task is to discover if samples will cluster based off gene expression between patients who tested positive for Covid-19 and those who tested negative. I will also find which genes are differentially expressed between these two groups. Lastly, I will create a machine learning algorithm to classify patients as either positive or negative for Covid-19 based off of the significant differentially expressed (DE) genes.  I will test my algorithm with different learning rates and number of iterations and then evaluate the accuracy by taking the total number of correct identifications and dividing it by the total number of classifications made for both the training and testing data.
