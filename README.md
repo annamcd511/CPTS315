@@ -36,7 +36,7 @@ Figure 2. Level of Gene Expression in the XAF1 gene between individuals that tes
 
 Table 1. Table of the top differentially expressed genes that were up regulated and down regulated in the comparison between Covid positive and negative individuals.  These are the genes that were used as features in the classifier.
 
-<img width="200" alt="image" src="https://user-images.githubusercontent.com/67665228/233068737-4b74e15c-2429-4d4f-a40c-126363f9056f.png">
+<img width="350" alt="image" src="https://user-images.githubusercontent.com/67665228/233068737-4b74e15c-2429-4d4f-a40c-126363f9056f.png">   
 
  ![image](https://user-images.githubusercontent.com/67665228/233068816-5631dd5b-5b69-4bbd-bdd0-e07ec5e6426f.png)
 
